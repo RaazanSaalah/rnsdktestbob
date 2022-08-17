@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-import { StyleSheet, View, Text } from 'react-native';
+import { StyleSheet, View } from 'react-native';
 import Index from 'react-native-rnsdktestbob';
 
 export default function App() {
@@ -12,8 +12,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text>Result</Text>
-      <Index />
+      <Index publicKey="PK_4545154545" clientSecret="cS_3444" />
     </View>
   );
 }

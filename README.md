@@ -1,5 +1,7 @@
 # react-native-rnsdktestbob
+
 testsdk
+
 ## Installation
 
 ```sh
@@ -9,11 +11,11 @@ npm install react-native-rnsdktestbob
 ## Usage
 
 ```js
-import { multiply } from "react-native-rnsdktestbob";
+import Index from 'react-native-rnsdktestbob';
 
 // ...
 
-const result = await multiply(3, 7);
+<Index publicKey="PK_4545154545" clientSecret="cS_3444" />;
 ```
 
 ## Contributing
@@ -27,5 +29,7 @@ MIT
 ---
 
 Made with [create-react-native-library](https://github.com/callstack/react-native-builder-bob)
+
 # rnsdktestbob
+
 # rnsdktestbob

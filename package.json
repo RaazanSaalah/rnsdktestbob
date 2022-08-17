@@ -1,6 +1,6 @@
 {
   "name": "react-native-rnsdktestbob",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "test",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -35,13 +35,11 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/RaazanSaalah/RN_SDK_TEST_bob/react-native-rnsdktestbob",
-  "author": "RaazanSaalah <razansalah@paymob.com> (https://github.com/RaazanSaalah/RN_SDK_TEST_bob)",
+  "repository": "https://github.com/RaazanSaalah/rnsdktestbob",
+  "author": "RaazanSaalah <razansalah@paymob.com> (https://github.com/RaazanSaalah/rnsdktestbob)",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/RaazanSaalah/RN_SDK_TEST_bob/react-native-rnsdktestbob/issues"
-  },
-  "homepage": "https://github.com/RaazanSaalah/RN_SDK_TEST_bob/react-native-rnsdktestbob#readme",
+  
+  "homepage": "https://github.com/RaazanSaalah/rnsdktestbob",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
