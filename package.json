@@ -1,6 +1,6 @@
 {
   "name": "react-native-rnsdktestbob",
-  "version": "0.2.0",
+  "version": "0.6.0",
   "description": "test",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -38,7 +38,6 @@
   "repository": "https://github.com/RaazanSaalah/rnsdktestbob",
   "author": "RaazanSaalah <razansalah@paymob.com> (https://github.com/RaazanSaalah/rnsdktestbob)",
   "license": "MIT",
-  
   "homepage": "https://github.com/RaazanSaalah/rnsdktestbob",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
@@ -147,6 +146,9 @@
     ]
   },
   "dependencies": {
-    "@babel/runtime": "^7.18.9"
+    "@babel/runtime": "^7.18.9",
+    "expo-auth-session": "^3.7.1",
+    "expo-random": "^12.3.0",
+    "expo-web-browser": "^11.0.0"
   }
 }

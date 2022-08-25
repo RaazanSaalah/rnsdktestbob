@@ -12,8 +12,9 @@
   },
   "dependencies": {
     "expo": "^46.0.7",
-    "react": "17.0.2",
-    "react-native": "0.68.2"
+    "react": "18.0.0",
+    "react-native": "0.69.4",
+    "react-native-rnsdktestbob": "^0.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",
